@@ -47,17 +47,17 @@ export const Header = ({ className }: HeaderProps) => {
                             </CategoryLink>
                         </li>
                         <li>
-                            <CategoryLink categorySlug="Kitchen" className={menuItemStyle}>
+                            <CategoryLink categorySlug="kitchen" className={menuItemStyle}>
                                 Kitchen
                             </CategoryLink>
                         </li>
                         <li>
-                            <CategoryLink categorySlug="Bath" className={menuItemStyle}>
+                            <CategoryLink categorySlug="bath" className={menuItemStyle}>
                                 Bath
                             </CategoryLink>
                         </li>
                         <li>
-                            <CategoryLink categorySlug="On-the-go" className={menuItemStyle}>
+                            <CategoryLink categorySlug="on-the-go" className={menuItemStyle}>
                                 On the Go
                             </CategoryLink>
                         </li>
